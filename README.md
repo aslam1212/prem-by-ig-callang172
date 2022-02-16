@@ -1,6 +1,6 @@
 # Premium
 
-Ini Adalah Script Untuk Crack Akun Instagram,  dan prenumu yah njing jadi jan lupa follow dan subscribe
+Ini Adalah Script Untuk Crack Akun Instagram,  dan prenium yah njing jadi jan lupa follow dan subscribe
 
 # Screenshot
 ![Screenshot_2022-01-28-10-27-24-66_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/151503825-35b698fe-8fe9-4cf8-a722-2ea40ab314c9.png)
@@ -11,8 +11,8 @@ Ini Adalah Script Untuk Crack Akun Instagram,  dan prenumu yah njing jadi jan lu
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone link git
-    $ cd Premium
+    $ git clone https://github.com/aslam1212/prem-by-ig-callang172
+    $ cd prem-by-ig-callang172
     $ git pull
     $ python Prem.py
 # Sosial Media
