@@ -31,7 +31,7 @@ def ___login___():
     print(f"{B}[{P}•{B}]{P} 𝕊ℂ 𝕀ℕ𝕀 𝔾ℝ𝔸𝕋𝕀𝕊 𝕐𝔸ℍ 𝔹𝔸𝕐𝔸ℝ ℙ𝔸𝕂𝕀 𝔽𝕆𝕃𝕃𝕆𝕎 Masukan Cookie Instagram, Sebaiknya Jangan Gunakan Akun Yang Baru Di Buat, Kalau Anda Belum Mengetahui Cara Mendapatkan Cookie Instagram Ketik {M}[{P}Open{M}]{P}\n")
     ___cookie = input(f"{H}[{P}?{H}]{P} Cookie :{K} ")
     if ___cookie in ['open', 'Open', 'OPEN']:
-        print(f"{K}[{P}!{K}]{P} Anda Akan Diarahkan Ke Youtube, Silahkan Ikuti Cara Untuk Mendapatkan Cookie...");sleep(3);os.system('xdg-open https://youtube.com/channel/UCY5u0qN7DmOzYlRyX1an7DQ');exit()
+        print(f"{K}[{P}!{K}]{P} Anda Akan Diarahkan Ke Youtube, Silahkan Ikuti Cara Untuk Mendapatkan Cookie...");sleep(3);os.system('xdg-open https://youtu.be/vFWmjossHo4');exit()
     elif ___cookie in ['', ' ']:
         exit(f"{P}[{M}!{P}]{M} Jangan Kosong")
     else:
